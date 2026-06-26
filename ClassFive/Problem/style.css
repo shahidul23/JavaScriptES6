@@ -1,0 +1,9 @@
+.content {
+  color: red;
+  font-size: 20px;
+}
+.newContent {
+  background-color: green;
+  font: optional;
+  font-size: 24px;
+}
